@@ -1,0 +1,7 @@
+.vscode/
+assets/
+lib/
+include/
+*.o
+*.exe
+*.dll
