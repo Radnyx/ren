@@ -6,6 +6,6 @@ Requires SDL2, headers in `include/` and binary in `lib/x64/`.
 
 ### Examples
 
-[quake](./doc/quake.png)
+![quake](./doc/quake.png)
 
-[toad](./doc/toad.png)
+![toad](./doc/toad.png)
